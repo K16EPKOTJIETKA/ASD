@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E3940D-FB10-48F9-A37C-D90E19DD1829}|Ex.4\\Ex.4.vcxproj|C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E3940D-FB10-48F9-A37C-D90E19DD1829}|Ex.4\\Ex.4.vcxproj|solutionrelative:Ex.4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA60B869-4543-4226-91D7-268139FCD5F7}|Ex.3\\Ex.3.vcxproj|C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA60B869-4543-4226-91D7-268139FCD5F7}|Ex.3\\Ex.3.vcxproj|solutionrelative:Ex.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05872A1E-DABD-4F3E-AEE8-AE5E3FE14A9E}|Ex.2\\Ex.2.vcxproj|C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05872A1E-DABD-4F3E-AEE8-AE5E3FE14A9E}|Ex.2\\Ex.2.vcxproj|solutionrelative:Ex.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E498C740-4D1E-494B-99F6-2D7CE61993C1}|ASD pr.2\\ASD pr.2.vcxproj|C:\\Users\\slavc\\source\\repos\\ASD pr.2\\ASD pr.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E498C740-4D1E-494B-99F6-2D7CE61993C1}|ASD pr.2\\ASD pr.2.vcxproj|solutionrelative:ASD pr.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.4\\Source.cpp",
+              "RelativeDocumentMoniker": "Ex.4\\Source.cpp",
+              "ToolTip": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.4\\Source.cpp",
+              "RelativeToolTip": "Ex.4\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-02T16:43:47.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.3\\Source.cpp",
+              "RelativeDocumentMoniker": "Ex.3\\Source.cpp",
+              "ToolTip": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.3\\Source.cpp",
+              "RelativeToolTip": "Ex.3\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T09:05:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.2\\Source.cpp",
+              "RelativeDocumentMoniker": "Ex.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\Ex.2\\Source.cpp",
+              "RelativeToolTip": "Ex.2\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T08:46:20.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\ASD pr.2\\Source.cpp",
+              "RelativeDocumentMoniker": "ASD pr.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\slavc\\source\\repos\\ASD pr.2\\ASD pr.2\\Source.cpp",
+              "RelativeToolTip": "ASD pr.2\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T08:12:23.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
